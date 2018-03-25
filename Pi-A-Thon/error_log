@@ -1,5 +1,0 @@
-[17-Feb-2018 15:09:52 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/infoooae/public_html/domains/rohitcoder.cf/research/tachukdiad/admin/config/config.php on line 12
-[17-Feb-2018 15:12:06 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/infoooae/public_html/domains/rohitcoder.cf/research/tachukdiad/admin/config/config.php on line 12
-[17-Feb-2018 15:12:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/infoooae/public_html/domains/rohitcoder.cf/research/tachukdiad/admin/config/config.php on line 12
-[17-Feb-2018 15:24:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/infoooae/public_html/domains/rohitcoder.cf/research/tachukdiad/admin/config/config.php on line 12
-[17-Feb-2018 16:44:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/infoooae/public_html/domains/rohitcoder.cf/research/tachukdiad/admin/index.php on line 175
