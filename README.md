@@ -1,4 +1,4 @@
-# List and Codes of all Attended Hackathons
+# :computer: List and Codes of all Attended Hackathons :bowtie:
 ## IndustryHack 2017 
 ![Snapshot 1](https://i.imgur.com/PBXyFae.png)![Snapshot 2](https://i.imgur.com/1BsOESY.png)
 
@@ -7,6 +7,7 @@ IndustryHack 2017 a unique Hackathon LPU Startup School hereby invites you to jo
 ## PI-A-Thon 2018
 
 ![Snapshot_2](https://i.imgur.com/MgNElqJ.png)
+
 Challenges were
 ## Programming tracks (Round 1 - 20 Marks)
 
