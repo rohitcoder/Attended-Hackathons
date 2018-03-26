@@ -1,10 +1,10 @@
-# :computer: List and Codes of all Attended Hackathons :bowtie:
+# 1. :computer: List and Codes of all Attended Hackathons :bowtie:
 ## IndustryHack 2017 
 ![Snapshot 1](https://i.imgur.com/PBXyFae.png)![Snapshot 2](https://i.imgur.com/1BsOESY.png)
 
 IndustryHack 2017 a unique Hackathon LPU Startup School hereby invites you to join a unique Hackathon – IndustryHack 2017 in partnership with Ministry of Micro, Small and Medium Enterprise (MSME). IndustryHack would allocate every team with a Company which they would be visitng with the DII team for an 8 hours. While learning about the company and its working, the team in discussion with DII and the company staff would identify a problem of which they would want to solve through IT intervention. Date and Timing: From 11 November (8:00 AM) to 13 November (6:00 PM) Venue: Basement, Baldev Raj Mittal Unipolis Teams: Maximum 3 members per team Fee per Member: Rs. 500 per person Applications Open: 13th October 2017 Applications Close: 08th November 2017 Register here: http://www.lpu.in/startupschool/events/hackathon-2017 Lodging, travelling & Food would be taken care by the University. 
 
-## PI-A-Thon 2018
+## 2. PI-A-Thon 2018
 
 ![Snapshot_2](https://i.imgur.com/MgNElqJ.png)
 
